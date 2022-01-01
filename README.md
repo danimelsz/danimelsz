@@ -13,3 +13,5 @@
 - 📫 How to reach me: dani_ymn@outlook.com
 
 - 😄 Pronouns: he/him
+
+- Fun facts: I love guitar! Zelda and Donkey Kong are the best games ever!
