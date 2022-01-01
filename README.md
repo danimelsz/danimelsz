@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hiii! Welcome to my repositories
 
-<!--
-**danimelsz/danimelsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me** 
 
-Here are some ideas to get you started:
+- 🐸 Name: Daniel Yudi Miyahara Nakamura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐻 Education: Biologist (University of São Paulo, 2017–2021) and data scientist.
+
+- 🐢 Current research: finalizing two scientific papers on resins of stingless bees and behavioral ecology of frogs, with experience in statistical models, network science, and phylogenies.
+ 
+- 🌱 Current learning: ancient DNA analysis using Bash and Machine Learning with Python/R.
+
+- 📫 How to reach me: dani_ymn@outlook.com
+
+- 😄 Pronouns: he/him
