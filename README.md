@@ -1,4 +1,4 @@
-### Hiii! Welcome to my repositories
+### Hi! Welcome to my repositories
 
 **About me** 
 
@@ -6,10 +6,10 @@
 
 - 🐻 Education: Biologist (University of São Paulo, 2017–2021) and data scientist.
 
-- 🐢 Current research: finalizing two scientific papers on resins of stingless bees and behavioral ecology of frogs, with experience in statistical models, network science, and phylogenies.
+- 🐢 Current position: PhD Student in Bioinformatics at University of São Paulo
  
-- 🌱 Current learning: ancient DNA analysis using Bash and Machine Learning with Python/R.
+- 🌱 Skills: Python, R, Bash using phylogenetic methods (ape, phytools, TNT, POY, IQ-Tree, RaxMl), network analyses (igraph and bipartite), statistical models (LMs, GLMs, LMMs, GLMMs, Bayesian Models), and Machine Learning (caret, scikit-learn, TensorFlow)
 
-- 📫 How to reach me: dani_ymn@outlook.com
+- 📫 E-mail: dani_ymn@usp.br
 
 - 😄 Pronouns: he/him
