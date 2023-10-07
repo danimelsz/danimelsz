@@ -1,4 +1,4 @@
-### Hi! Welcome to my repositories
+### Welcome to my repositories
 
 **About me** 
 
