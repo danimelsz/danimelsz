@@ -2,7 +2,7 @@
 
 **About me** 
 
-- Name: Daniel Yudi Miyahara Nakamura
+- Name: Daniel Y M Nakamura
 
 - Education: Biologist (University of São Paulo, 2017–2021) and data scientist.
 
